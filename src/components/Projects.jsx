@@ -263,9 +263,9 @@ function Projects() {
                     </Swiper>
 
                     <button className='btn btn-primary p-2 my-5'> 
-                        <Link to="/projects" className="text-white text-decoration-none">
+                        <a href="#projects" className="text-white text-decoration-none">
                             See more
-                        </Link>
+                        </a>
                     </button>
 
                 </div>
